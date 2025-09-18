@@ -8,7 +8,7 @@ JDBC (Java Database Connectivity), MySQL integration, and CRUD operations.
 
 Features
 
-Add new student details
+Add new student details 
 View all student records
 Update existing student information
 Delete student records
